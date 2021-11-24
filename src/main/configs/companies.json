@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Apple",
+        "type": "Electronics",
+        "stock": null,
+        "revenue": 32.1e+7,
+        "capitalization": null,
+        "shares": {
+            "total_shares": 0,
+            "free_shares": 0,
+            "equity_shares": 0,
+            "share_price": 0
+        }
+    },
+    {
+        "name": "Micro$oft",
+        "type": "Software",
+        "stock": null,
+        "revenue": 26.7e+7,
+        "capitalization": null,
+        "shares": {
+            "total_shares": 0,
+            "free_shares": 0,
+            "equity_shares": 0,
+            "share_price": 0
+        }
+    }
+]

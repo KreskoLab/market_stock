@@ -1,0 +1,27 @@
+    @font-face {
+        font-family: 'e-Ukraine';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('~assets/fonts/e-Ukraine-Light.woff2') format('truetype');
+    }
+
+    @font-face {
+        font-family: 'e-Ukraine';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('~assets/fonts/e-Ukraine-Regular.woff2') format('truetype');
+    }
+  
+    @font-face {
+        font-family: 'e-Ukraine';
+        font-style: normal;
+        font-weight: 500;
+        font-display: swap;
+        src: url('~assets/fonts/e-Ukraine-Medium.woff2') format('truetype');
+    }
+
+    html {
+        font-family: 'e-Ukraine'
+    }
